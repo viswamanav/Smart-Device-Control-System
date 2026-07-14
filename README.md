@@ -16,10 +16,10 @@ Encapsulation – The ON/OFF state is stored inside the device and can only be c
 
 ## Project Structure
 Smart-Device-Control-System/
-│
-├── main.py
-├── README.md
-└── .gitignore
+
+main.py
+README.md
+.gitignore
 
 ## Requirements
 Python 3.x
@@ -28,7 +28,7 @@ Python 3.x
 
 Clone the repository:
 
-git clone git clone https://github.com/viswamanav/Smart-Device-Control-System.git
+git clone https://github.com/viswamanav/Smart-Device-Control-System.git
 
 Go to the project folder:
 
