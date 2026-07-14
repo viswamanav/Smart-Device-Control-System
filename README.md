@@ -44,6 +44,6 @@ Motor has stopped
 Light switched on
 Light switched off
 
-##Author
+## Author
 
 Viswamanav RS
